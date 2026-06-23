@@ -1,0 +1,14 @@
+algoritmo "Idade2"
+
+var
+  anoatual, anonascimento, idade : inteiro
+
+inicio
+  escreval ("Em que anos estamos atualmente? ")
+  leia (anoatual)
+  escreval ("Em que ano eu nasci? ")
+  leia (anonascimento)
+  idade <- anoatual - anonascimento
+  escreva ("Minha idade = " idade)
+
+fimalgoritmo
