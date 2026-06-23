@@ -4,7 +4,7 @@ var
   anoatual, anonascimento, idade : inteiro
 
 inicio
-  escreval ("Em que anos estamos atualmente? ")
+  escreval ("Em que ano estamos atualmente? ")
   leia (anoatual)
   escreval ("Em que ano eu nasci? ")
   leia (anonascimento)
